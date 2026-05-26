@@ -8,11 +8,6 @@ Projeto inteiramente desenvolvido em **Python**, utilizando as seguintes ferrame
 * **Scikit-Learn:** Criação do modelo de regressão para prever taxas de 2023 a 2026.
 * **Streamlit:** Desenvolvimento da interface web interativa (Data App).
 
-## 🔗 Links Rápidos
-- 📓 **Notebook da Análise (Colab):** [Insira o link aqui]
-- 🌐 **Data App Interativo:** [Insira o link aqui]
-- 📋 **Quadro de Tarefas:** [Insira o link aqui]
-
 ## 👥 Equipe
 * Antonio Acrisio Caxias Sousa
 * Antonio Bryan de Almeida Abreu
